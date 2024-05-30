@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Heart Disease Prediction-Machine Learning
 Cardiovascular diseases remain one of the most pressing issues in modern medicine, exerting a significant impact on the health and quality of life of millions of people worldwide. The ability to predict the presence or risk of heart diseases with high accuracy is a critically important task for effective prevention and treatment.
 
 # Goal
